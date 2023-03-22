@@ -3,7 +3,7 @@ import React from 'react'
 const Home = () => {
   return (
     <div>
-      INI TIAN 
+      INI RIAN BROHHH
     </div>
   )
 }
